@@ -1,1 +1,1 @@
-A pasta respostas contém o notebook com as resoluções e resultados de cada questão. A pasta utils guarda apenas uma segunda versão da terceira questão que tem mais rosbustas como tarefa para comparação.
+A pasta RESPOSTAS contém o notebook com as resoluções e resultados de cada questão. A pasta Utils guarda apenas uma segunda versão da terceira questão que tem mais rosbustas como tarefa para comparação.
