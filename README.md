@@ -1,1 +1,3 @@
+Alunos: Davi de Lacerda, Ingrid Ferreira e Rafael Lima.
+
 A pasta RESPOSTAS contém o notebook com as resoluções e resultados de cada questão. A pasta SLIDES contém os slides da apresentação. A pasta Utils guarda apenas uma segunda versão da terceira questão que tem mais rosbustas como tarefa para comparação.
